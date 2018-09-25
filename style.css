@@ -50,9 +50,5 @@ p{
   font-family: sans-serif;
   font-size: 100%;
   color: black;
-}
-
-#nested-list{
-  font-style: italic;
-  color: darkgray;
+  margin: 95%;
 }

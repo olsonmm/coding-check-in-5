@@ -15,6 +15,11 @@ h1{
   font-weight: normal;
 }
 
+p{
+  font-family: sans-serif;
+  color: black;
+}
+
 .front-matter{
   font-style: italic;
   font-family: serif;

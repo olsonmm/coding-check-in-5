@@ -8,3 +8,15 @@ p {
 btw, this is a CSS comment. Feel free to delete it.
 
  */
+h1{
+  color: darkblue;
+  font-family: monospace;
+  font-size: 400%;
+  font-weight: normal;
+}
+
+.front-matter{
+  font-style: italic;
+  font-family: serif;
+  color: gray;
+}

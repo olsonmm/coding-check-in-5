@@ -40,6 +40,12 @@ p{
   font-size: 100%;
 }
 
+li{
+  font-family: sans-serif;
+  color: black;
+  font-size: 100%;
+}
+
 .front-matter{
   font-style: italic;
   font-family: serif;

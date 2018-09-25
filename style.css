@@ -21,9 +21,22 @@ h2{
   font-size: 200%;
 }
 
+h3{
+  color: darkblue;
+  font-family: monospace;
+  font-size: 175%;
+}
+
+h4{
+  font-family: sans-serif;
+  color: black;
+  font-size: 150%;
+}
+
 p{
   font-family: sans-serif;
   color: black;
+  font-size: 100%;
 }
 
 .front-matter{
